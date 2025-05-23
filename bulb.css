@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(111, 32, 3);
+
+}
+
+h1{
+    color:bisque ;
+    margin-left: 360px;
+    font-size: 60px;
+    font-family: Georgia;
+}
+
+h2{
+    color:bisque ;
+    margin-left: 350px;
+    font-size: 40px;
+    font-family: Georgia;
+}
+
+.bulb_img{
+    margin-top: 20px;
+    margin-left:550px;
+    border-radius: 3px;
+    border-color: black;
+}
+
+.SwitchOn{
+    margin-left: 574px;
+    margin-top: 12px;
+    height: 30px;
+    width: 100px;
+}
+
+.SwitchOff{
+    margin-left: 574px;
+    margin-top: 12px;
+    height: 30px;
+    width: 100px;
+}
+
+#msg1{
+    color:bisque ;
+    margin-left: 420px;
+    font-size: 30px;
+    font-family: Georgia;
+    
+}
+
+#msg2{
+    color:bisque ;
+    margin-left: 300px;
+    font-size: 30px;
+    font-family: Georgia;
+    
+}
+
