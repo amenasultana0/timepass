@@ -6,5 +6,5 @@ document.querySelector('.SwitchOn').onclick = () => {
 document.querySelector('.SwitchOff').onclick = () => {
     document.getElementById('image').src = 'bulb_off.png';
     document.getElementById('msg1').textContent='';
-    document.getElementById('msg2').textContent='Trying to feel good by switching it off again? Idiot mav 🙂';
+    document.getElementById('msg2').textContent='Trying to feel good by switching it off again? Idiot Sad 🙂';
 }
